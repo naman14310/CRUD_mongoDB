@@ -1,0 +1,1 @@
+## All html files should be kept in this folder
